@@ -1,0 +1,4 @@
+; TEMPORARY mitigation (not full fix)
+session.upload_progress.enabled = 0
+; Restart php-fpm / apache after this
+; Real fix is UPDATE ONLY【8006007432802382290†L13-L15】
