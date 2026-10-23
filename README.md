@@ -79,6 +79,9 @@ It helps other developers find this fix in an emergency.
 ## 👩‍💻 Author
 
 **Farimazhar**
+## 👩‍💻 Author - Open to Work
+Hi, I'm Fari Mazhar - Cybersecurity Enthusiast from Pakistan.
+Looking for Junior Security Researcher / SOC Analyst role.
 Cybersecurity Enthusiast | PHP Developer | Open Source Contributor
 
 📧 Contact: **Farimazhar101@gmail.com**
